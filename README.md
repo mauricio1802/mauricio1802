@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=mauricio1802&label=Views&color=lightgrey&style=flat-square" alt="mauricio1802" /> 
 </p>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauricio1802&rank=SECRET,SSS,SS,S,AAA&theme=radical&no-bg=true&no-frame=true&column=4" alt="mauricio1802" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauricio1802&rank=SECRET,SSS,SS,S,AAA,AA&theme=radical&no-bg=true&no-frame=true&column=4" alt="mauricio1802" /></a> 
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
